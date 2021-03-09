@@ -1,0 +1,8 @@
+# Don't want to push any credential type stuff
+credentials*
+
+# Ignore any vscode specific setting stuff
+.vscode/
+
+# Don't know what this is for... But I don't want to push it either
+__pycache__/
